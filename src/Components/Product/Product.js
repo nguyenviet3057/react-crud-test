@@ -1,16 +1,10 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
-import { useNavigate } from 'react-router-dom';
 
 export default class Product extends Component {
     constructor(props) {
         super(props);
         this.state = this.props.product;
-        this.handleEditClick = this.handleEditClick.bind(this);
-    }
-    handleEditClick = (id) => {
-        let navigate = useNavigate();
-        navigate('/', {replace: true});
     }
     render() {
         const product = this.props.product;

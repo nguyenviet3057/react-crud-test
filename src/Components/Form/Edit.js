@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Link, Navigate } from 'react-router-dom';
+import { Link, Redirect } from 'react-router-dom';
 import ProductListController from '../../Controller/ProductListController';
 import Product from '../../Model/Product';
 
@@ -53,7 +53,7 @@ export default class Edit extends Component {
 
   render() {
     if (this.state.isRedirect) {
-      return <Navigate to="/" />
+      return <Redirect to="/" />
     }
     return (
       <div className='container d-flex flex-column justify-content-center' style={{height:'100vh', alignItems:'center'}}>
