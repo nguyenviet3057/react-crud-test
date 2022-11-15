@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-crud-test/static/css/main.073c9b0a.css",
-    "main.js": "/react-crud-test/static/js/main.e4a5d471.js",
-    "static/js/787.96b36d55.chunk.js": "/react-crud-test/static/js/787.96b36d55.chunk.js",
-    "static/media/logo.svg": "/react-crud-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-crud-test/static/css/main.e6c13ad2.css",
+    "main.js": "/react-crud-test/static/js/main.2ebcaf79.js",
     "index.html": "/react-crud-test/index.html",
-    "main.073c9b0a.css.map": "/react-crud-test/static/css/main.073c9b0a.css.map",
-    "main.e4a5d471.js.map": "/react-crud-test/static/js/main.e4a5d471.js.map",
-    "787.96b36d55.chunk.js.map": "/react-crud-test/static/js/787.96b36d55.chunk.js.map"
+    "main.e6c13ad2.css.map": "/react-crud-test/static/css/main.e6c13ad2.css.map",
+    "main.2ebcaf79.js.map": "/react-crud-test/static/js/main.2ebcaf79.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e4a5d471.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ebcaf79.js"
   ]
 }
